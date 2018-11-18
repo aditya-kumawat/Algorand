@@ -1,0 +1,22 @@
+{
+  "name": "algorand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aditya19496/Algorand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya19496/Algorand/issues"
+  },
+  "homepage": "https://github.com/aditya19496/Algorand#readme",
+  "dependencies": {
+    "vrf.js": "^0.0.4"
+  }
+}
